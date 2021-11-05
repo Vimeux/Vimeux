@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/BeN44" target="_blank">
+  <a href="https://app.daily.dev/BeN44">
     <img src="https://github.com/Vimeux/Vimeux/blob/main/devcard.svg" 
          width="300" 
          align="right"
