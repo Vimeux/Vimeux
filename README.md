@@ -25,7 +25,7 @@
 
 <br />
 
-### Welcome to my cave
+### Welcome to my cave 😁
 
 I'm Benjamin Vimeux, a french developer based in Nantes (we have a mechanical elephant 🐘), I like front-end development especially in VueJS and React with Next.js. 
 And animations in css/js (GSAP) are my minion sin.
@@ -35,4 +35,4 @@ And animations in css/js (GSAP) are my minion sin.
 - 👯 I am looking to collaborate on the translation of documents into French
 - 🤔 I’m looking for help with Three.js
 - 📫 How to reach me: vimeux.benji@gmail.com
-- ⚡ Fun fact: I love aquariums, I feel like a fish in water 🐡😁
+- ⚡ Fun fact: I love aquariums, I feel like a fish in water 🐡 🤩
