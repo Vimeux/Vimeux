@@ -9,5 +9,5 @@ And animations in css/js (GSAP) are my minion sin.
 - 🤔 I’m looking for help with Three.js
 - 📫 How to reach me: vimeux.benji@gmail.com
 - ⚡ Fun fact: I love aquariums, I feel like a fish in water 🐡😁
-
-<a href="https://app.daily.dev/BeN44"><img src="https://api.daily.dev/devcards/f5d52d5733cd4d2fbbb7424073da2b52.png?r=9yx" width="400" alt="Benjamin VIMEUX's Dev Card"/></a>
+- 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Vimeux/Vimeux/blob/main/devcard.svg" width="400" alt="Benjamin Vimeux's Dev Card"/></a>
