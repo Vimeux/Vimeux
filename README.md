@@ -27,7 +27,7 @@
 
 ### Welcome to my cave 😁
 
-I'm Benjamin Vimeux, a french developer based in Nantes (we have a mechanical elephant 🐘), I like front-end development especially in VueJS and React with Next.js. 
+I'm Benjamin Vimeux and I'm 21 years old, a french developer based in Nantes (we have a mechanical elephant 🐘), I like front-end development especially in VueJS and React with Next.js. 
 And animations in css/js (GSAP) are my minion sin.
 
 - 🔭 I’m currently working for Zoan Agency
